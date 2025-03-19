@@ -9,6 +9,14 @@ Deixo aqui meus agradecimentos ao **Marcio Nizzola (Microsoft MVP)**, ao **Renic
 
 ---
 
+![Renato palestrando 1](img/i-01.jpg)
+
+![Renato palestrando 2](img/i-02.jpg)
+
+![Renato palestrando 3](img/i-03.jpg)
+
+![Renato palestrando 4](img/i-06.jpg)
+
 ![Foto final](img/foto-final.png)
 
 ![Divulgação](img/divulgacao.png)
